@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+C:\Users\Thech\OneDrive\Imagens\td\triPnInI\cubePerspect\cubePerspect\Origem.cpp(23,38): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+C:\Users\Thech\OneDrive\Imagens\td\triPnInI\cubePerspect\cubePerspect\Origem.cpp(36): error C4700: variável local não inicializada 'h' usada
+C:\Users\Thech\OneDrive\Imagens\td\triPnInI\cubePerspect\cubePerspect\Origem.cpp(36): error C4700: variável local não inicializada 'w' usada
