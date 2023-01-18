@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\Thech\OneDrive\Imagens\td\triPnInI\triTstDuble\triTstDuble\Origem.cpp(19,38): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+  triTstDuble.vcxproj -> C:\Users\Thech\OneDrive\Imagens\td\triPnInI\triTstDuble\Debug\triTstDuble.exe
