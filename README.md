@@ -13,6 +13,20 @@
 | opengl32 |glfw3  |
 |--|--|
 | glou2 |hscYU4  |
+----
+
+
+| Library                   | Language | Description                                                                                                                                             |
+|---------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| OpenGL (GL)              | C / C++ | The core OpenGL API itself, which is written in C. It serves as the foundation for all other OpenGL libraries.                                     |
+| GLFW                       | C / C++ | An open-source library for creating windows with OpenGL contexts and managing input (keyboard, mouse, etc.). Useful for quickly starting OpenGL projects without worrying about basic setup.   |
+| GLEW                       | C / C++ | A library for loading and managing OpenGL extensions in a cross-platform manner. It simplifies the initialization of modern OpenGL extensions and makes it easier to write code compatible with multiple versions of the API. |
+| GLUT (FreeGLUT)      | C / C++ | GLUT (OpenGL Utility Toolkit) is a library for creating windows, handling input, and performing other basic management tasks for OpenGL applications. FreeGLUT is an updated open-source version of GLUT.                 |
+| SDL (Simple DirectMedia Layer) | C / C++ | While SDL is a multi-platform library for working with audio, keyboard, mouse, and graphics, it can also be used to create OpenGL contexts and manage windows for 2D and 3D graphics projects.                           |
+| SFML (Simple and Fast Multimedia Library) | C++     | A multi-platform C++ library that abstracts many functionalities, including 2D and 3D graphics, audio, and input. For OpenGL, SFML provides support for context and 2D rendering, making it easy to start C++ game projects.     |
+| Qt                           | C++     | While primarily a framework for creating desktop and mobile applications, Qt also has a module called QtOpenGL, which allows integrating OpenGL into Qt applications and creating graphical interfaces with OpenGL.   |
+| ImGui                    | C++     | A lightweight GUI library for OpenGL that enables creating graphical interfaces to tweak parameters and do real-time debugging within an OpenGL program. It's particularly useful for developing debugging and configuration tools.|
+
 
 
 |ImportVersel| gr.mmo|
